@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @teodorogomes
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning javascript, python and c++
-- 💞️ I’m looking to collaborate on javascript games.
+- 💞️ I’m looking to collaborate on javascript or python projects
 - 📫 How to reach me: teodoro.gomes@gmail.com
 
 <!---
